@@ -1,0 +1,5 @@
+Gateway: http://www.dataxstream.com/2015/07/sap-netweaver-gateway-for-beginners/
+
+Multipurpose - https://www.sap.com/india/developer/tutorial-navigator.html 
+
+HANA- https://www.sap.com/developer/groups/hana-xsc-get-started.html
